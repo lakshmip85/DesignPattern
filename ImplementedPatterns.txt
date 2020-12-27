@@ -1,0 +1,2 @@
+Implemented design patterns.
+1. Factory Method pattern
