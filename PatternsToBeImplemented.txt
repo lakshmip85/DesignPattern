@@ -1,0 +1,3 @@
+Patterns to be implemented:
+1. Singleton
+2. CQRS and Mediator
